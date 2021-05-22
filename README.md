@@ -1,4 +1,4 @@
-### **Hello, I'm Abhishek Kumar Jha**
+## Hello, I'm Abhishek Kumar Jha
 #### I'm 20 years old and currently pursuing my bachelor's degree from KIIT University,Bhubaneswar in Computer Science & Engineering 
 
  - 🔭 Checkout my game on itch.io : [CUBATHON][itchlink]
@@ -32,12 +32,11 @@
 <br />
 
  ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=diabl0-NEMESIS&show_icons=true&theme=radical)
-
+<br />
+<br />
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diabl0-NEMESIS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  
-
-
 [github]: https://github.com/diabl0-NEMESIS/Github
 [itchlink]: https://abhishek-kr-jha.itch.io/cubathon
 [linkedin]: https://www.linkedin.com/in/abhishek-jha-74a757195/
