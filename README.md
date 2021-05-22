@@ -1,10 +1,10 @@
-### Hello, I'm Abhishek Kumar Jha
-## I'm 20 years old and currently pursuing my bachelor's degree from KIIT University,Bhubaneswar in Computer Science & Engineering 
+## Hello, I'm Abhishek Kumar Jha
+#### I'm 20 years old and currently pursuing my bachelor's degree from KIIT University,Bhubaneswar in Computer Science & Engineering 
 
-- 🔭 Checkout my game on itch.io : [CUBATHON][itchlink]
-- 🌱 I’m currently learning Game Development,3D Modeling and DP
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love making Cartoons and playing Games besides coding
+ - 🔭 Checkout my game on itch.io : [CUBATHON][itchlink]
+ - 🌱 I’m currently learning Game Development,3D Modeling and DP
+ - 🥅 2021 Goals: Contribute more to Open Source projects
+ - ⚡ Fun fact: I love making Cartoons and playing Games besides coding
 
 ### Connect with me : 
 [<img align="left" alt="diabl0-NEMESIS | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
