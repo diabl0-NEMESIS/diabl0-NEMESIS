@@ -1,41 +1,40 @@
-## Hello, I'm Abhishek Kumar Jha
-#### I'm 20 years old and currently pursuing my bachelor's degree from KIIT University,Bhubaneswar in Computer Science & Engineering 
+<div align="center">
 
- - 🔭 Checkout my game on itch.io : [CUBATHON][itchlink]
- - 🌱 I’m currently learning Game Development,3D Modeling and DP
- - 🥅 2021 Goals: Contribute more to Open Source projects
- - ⚡ Fun fact: I love making Cartoons and playing Games besides coding
+# 👋 Hi, I'm Abhishek Kumar Jha
+**Software Engineer | Backend Architect | Creative Tech Enthusiast**
 
-### Connect with me : 
-[<img align="left" alt="diabl0-NEMESIS | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="diabl0-NEMESIS | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="diabl0-NEMESIS | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+Designing resilient, high-scale architectures and turning complex code into seamless user experiences.
 
-<br />
-<br />
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />][itchlink]
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
-### some Languages and Tools i have used till now :
-[<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" />][github]
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][github]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][github]
-[<img align="left" alt="Unity3D" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.24.0/icons/unity.svg" />][github]
-[<img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blender.svg" />][github]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+---
+</div>
 
-<br />
-<br />
+### 🚀 Overview
+- **Backend Modernization:** Specialist in the core Java ecosystem, executing architecture upgrades (Java 8 to 21) and engineering high-throughput platform optimizations.
+- **Open Source:** Proud Google Summer of Code (GSoC) alumnus with deep contributions to core system performance and audio frameworks.
+- **Automation & DevOps:** Designing automated testing suites with Selenium and stabilizing production monitoring systems to ensure continuous availability.
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diabl0-NEMESIS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
-[github]: https://github.com/diabl0-NEMESIS/Github
+---
+
+### 🛠️ Current Tech Stack & Ecosystem
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)|
+| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) |
+| **DevOps & QA** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
+| **Creative Tech** | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) |
+
+---
+
+### 🎨 Side Quests & Creative Space
+- 🎮 **Indie Game Dev:** Check out my early physics-based project on itch.io: [CUBATHON][itchlink]
+- 🖌️ **Off-Screen:** When I'm not untangling database deadlocks or configuring pipelines, you'll find me crafting 3D models in Blender, drawing cartoons, or diving into deep video game lore.
+
+---
 [itchlink]: https://abhishek-kr-jha.itch.io/cubathon
 [linkedin]: https://www.linkedin.com/in/abhishek-jha-74a757195/
 [instagram]: https://www.instagram.com/dem0nic_p0tat0/
-[facebook]: https://www.facebook.com/profile.php?id=100006434136292
